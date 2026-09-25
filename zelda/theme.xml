@@ -1,0 +1,21 @@
+<theme>
+    <include>./../theme.xml</include>
+    
+<variant name="grid">
+    <view name="gamelist">
+        <grid name="grid">
+            <imageType>marquee</imageType>
+            <imageFit>contain</imageFit>
+             <imageRelativeScale>1</imageRelativeScale>
+             <selectorLayer>bottom</selectorLayer>
+            <selectorImage>./../assets/images/space.png</selectorImage>
+            <selectorColor>${overlayColor}</selectorColor>
+            <backgroundColor>${backgroundColor}</backgroundColor>
+            <imageRelativeScale>0.9</imageRelativeScale>
+            <backgroundRelativeScale>0.95</backgroundRelativeScale>
+            
+        </grid>
+    </view>
+</variant>
+
+</theme>

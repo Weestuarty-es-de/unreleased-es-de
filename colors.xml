@@ -1,0 +1,57 @@
+<theme>
+   <colorScheme name="cyan">
+      <variables>
+         <overlayColor>00FFFF</overlayColor>
+         <backgroundColor>000000</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="mag">
+      <variables>
+         <overlayColor>FD3DB5</overlayColor>
+         <backgroundColor>000000</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="classy">
+      <variables>
+         <overlayColor>c59a6f</overlayColor>
+         <backgroundColor>561420</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="invert">
+      <variables>
+         <overlayColor>000000</overlayColor>
+         <backgroundColor>c4bebb</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="oled">
+      <variables>
+         <overlayColor>FFFFFF</overlayColor>
+         <backgroundColor>000000</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="cheese">
+      <variables>
+         <overlayColor>Fcc565</overlayColor>
+         <backgroundColor>000000</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="red">
+      <variables>
+         <overlayColor>FF0000</overlayColor>
+         <backgroundColor>000000</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="green">
+      <variables>
+         <overlayColor>00FF00</overlayColor>
+         <backgroundColor>000000</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="blue">
+      <variables>
+         <overlayColor>0000FF</overlayColor>
+         <backgroundColor>000000</backgroundColor>
+      </variables>
+   </colorScheme>
+   
+</theme>

@@ -1,0 +1,97 @@
+<themeCapabilities>
+
+   <themeName>Unreleased</themeName>
+
+   <fontSize>medium</fontSize>
+    <fontSize>large</fontSize>
+    <fontSize>x-large</fontSize>
+
+   <aspectRatio>4:3</aspectRatio>
+   <aspectRatio>16:9</aspectRatio>
+   <aspectRatio>16:10</aspectRatio>
+   <aspectRatio>19.5:9</aspectRatio>
+   <aspectRatio>21:9</aspectRatio>
+   <aspectRatio>20:9</aspectRatio>
+   <aspectRatio>3:2</aspectRatio>
+
+    <language>en_US</language>
+    <language>en_GB</language>
+    <language>ar_SA</language>
+    <language>bs_BA</language>
+    <language>ca_ES</language>
+    <language>de_DE</language>
+    <language>es_ES</language>
+    <language>fr_FR</language>
+    <language>hr_HR</language>
+    <language>it_IT</language>
+    <language>nl_NL</language>
+    <language>pl_PL</language>
+    <language>pt_BR</language>
+    <language>pt_PT</language>
+    <language>ro_RO</language>
+    <language>ru_RU</language>
+    <language>sr_RS</language>
+    <language>sv_SE</language>
+    <language>ja_JP</language>
+    <language>ko_KR</language>
+    <language>zh_CN</language>
+    <language>zh_TW</language>
+   
+   
+<colorScheme name="oled">
+      <label>OLED</label>
+   </colorScheme>
+   <colorScheme name="cyan">
+      <label>Cyan</label>
+   </colorScheme>
+   <colorScheme name="mag">
+      <label>Magenta</label>
+   </colorScheme>
+<colorScheme name="invert">
+      <label>Invert</label>
+   </colorScheme>
+   <colorScheme name="classy">
+      <label>Classy</label>
+   </colorScheme>
+   <colorScheme name="cheese">
+      <label>Cheese</label>
+   </colorScheme>
+   <colorScheme name="red">
+      <label>Red</label>
+   </colorScheme>
+   <colorScheme name="green">
+      <label>Green</label>
+   </colorScheme>
+   <colorScheme name="blue">
+      <label>Blue</label>
+   </colorScheme>
+  
+
+   
+   <variant name="meta">
+      <label>Metadata</label>
+      <selectable>true</selectable>
+   </variant>
+   
+   <variant name="grid">
+      <label>Grid</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="simple4">
+      <label>carousel</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="simple5">
+      <label>carousel w/video</label>
+      <selectable>true</selectable>
+   </variant>
+
+   
+
+   <suppressTransitionProfiles>
+      <entry>builtin-instant</entry>
+      <entry>builtin-slide</entry>
+      <entry>builtin-fade</entry>
+   </suppressTransitionProfiles>
+
+</themeCapabilities>
