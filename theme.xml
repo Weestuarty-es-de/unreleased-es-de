@@ -155,7 +155,7 @@
          <systemstatus name="first">
             <pos>0.9 0.1775</pos>
             <origin>1 0</origin>
-            
+            <textRelativeScale>0.6</textRelativeScale>
             <fontPath>${fontAdvance}</fontPath>
             <color>${overlayColor}88</color>
             <scope>view</scope>
@@ -177,6 +177,7 @@
             <origin>0 0</origin>
             <height>0.05</height>
             <fontPath>${fontAdvance}</fontPath>
+            <textRelativeScale>0.6</textRelativeScale>
             <color>${overlayColor}</color>
             <backgroundColor>000000</backgroundColor>
             <scope>menu</scope>
@@ -306,6 +307,7 @@
          <systemstatus name="first">
             <pos>0.99 0.925</pos>
             <origin>1 0</origin>
+            <textRelativeScale>0.6</textRelativeScale>
             <fontPath>${fontAdvance}</fontPath>
             <color>${overlayColor}88</color>
             <scope>view</scope>
@@ -314,6 +316,7 @@
             <pos>0.6 0.0</pos>
             <origin>0 0</origin>
             <height>0.05</height>
+            <textRelativeScale>0.6</textRelativeScale>
             <fontPath>${fontAdvance}</fontPath>
             <color>${overlayColor}</color>
             <backgroundColor>000000</backgroundColor>
@@ -553,6 +556,7 @@
             <pos>0.1125 0.02</pos>
             <origin>0 0</origin>
             <color>${overlayColor}88</color>
+            <textRelativeScale>0.6</textRelativeScale>
             <fontPath>${fontAdvance}</fontPath>
             <scope>view</scope>
          </systemstatus>
@@ -573,6 +577,7 @@
             <origin>0 0</origin>
             <height>0.05</height>
             <color>${overlayColor}</color>
+            <textRelativeScale>0.6</textRelativeScale>
             <fontPath>${fontAdvance}</fontPath>
             <backgroundColor>000000</backgroundColor>
             <scope>menu</scope>
@@ -737,6 +742,7 @@
          <systemstatus name="first">
             <pos>0.1 0.0075</pos>
             <height>0.03</height>
+            <textRelativeScale>0.6</textRelativeScale>
             <fontPath>${fontAdvance}</fontPath>
             <origin>0 0</origin>
             <color>${overlayColor}88</color>
@@ -760,6 +766,7 @@
             <origin>0 0</origin>
             <height>0.05</height>
             <color>${overlayColor}</color>
+            <textRelativeScale>0.6</textRelativeScale>
             <fontPath>${fontAdvance}</fontPath>
             <backgroundColor>000000</backgroundColor>
             <scope>menu</scope>
@@ -877,6 +884,7 @@
          <systemstatus name="first">
             <pos>0.99 0.925</pos>
             <origin>1 0</origin>
+            <textRelativeScale>0.6</textRelativeScale>
             <fontPath>${fontAdvance}</fontPath>
             <color>${overlayColor}88</color>
             <scope>view</scope>
@@ -898,6 +906,7 @@
             <origin>0 0</origin>
             <height>0.05</height>
             <color>${overlayColor}</color>
+            <textRelativeScale>0.6</textRelativeScale>
             <fontPath>${fontAdvance}</fontPath>
             <backgroundColor>000000</backgroundColor>
             <scope>menu</scope>
